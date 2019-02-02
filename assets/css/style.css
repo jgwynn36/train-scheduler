@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("../images/train clock.jpeg");
+
+    color: black; 
+    font-weight: bolder; 
+    text-align: center; 
+}
+.container {
+    background-color: lightgray; 
+}
+h4 {
+    font-weight: bolder; 
+    text-align: center; 
+}
